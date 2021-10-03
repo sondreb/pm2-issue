@@ -5,6 +5,6 @@
     "dependencies": {},
     "devDependencies": {},
     "scripts": {
-        "start": "pm2 start app.json --attach --env develop"
+        "start": "pm2 start app.json --attach"
     }
 }
