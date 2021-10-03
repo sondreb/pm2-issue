@@ -1,0 +1,10 @@
+{
+    "name": "pm2-issue",
+    "version": "0.0.9",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "start": "pm2 start app.json --attach --env develop"
+    }
+}

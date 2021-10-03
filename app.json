@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "sync",
+            "script": "./build/sync/",
+            "exec_mode": "cluster",
+            "instances": 1
+        },
+        {
+            "name": "api",
+            "script": "./build",
+            "exec_mode": "cluster",
+            "instances": 1
+        }
+    ]
+}
