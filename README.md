@@ -7,3 +7,7 @@ The two entry points are located under same parent folder, but with "sync" as ch
 When configured with the current app.json, the output becomes as below, where API is logged two:
 
 ![](issue.png)
+
+## Issue tracking:
+
+https://github.com/Unitech/pm2/issues/5192
